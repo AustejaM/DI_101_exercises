@@ -1,2 +1,1 @@
 # DI_101_exercises
-__IV_Mathematical_Computation/__III_exercises.ipynb
